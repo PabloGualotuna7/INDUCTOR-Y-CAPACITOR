@@ -72,10 +72,14 @@ Figura 3
 La ganancia del amplificador en lazo abierto está dada por la siguiente fórmula:
 
 AV = Vs / Ve
+
 Donde:
-AV = ganancia de tensión
-Vs = tensión de salida
-Ve = tensión de entrada
+
+* AV = ganancia de tensión
+
+* Vs = tensión de salida
+
+* Ve = tensión de entrada
 
 En un amplificador operacional ideal, esta ganancia es infinita. Sin embargo, cuando el operacional es real, su ganancia está entre 20,000 y 200,000 (en el amplificador operacional 741C). Este tipo de configuración se utiliza en comparadores, donde lo que se desea es, saber cual de las dos entradas tiene mayor tensión, de ahí su nombre, amplificador diferencial. La señal de salida Vs del amplificador diferencial ideal debería ser:
 

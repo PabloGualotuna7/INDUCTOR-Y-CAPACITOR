@@ -2,6 +2,8 @@
 
 ### 1. PLANTEAMIENTO DEL PROBLEMA
 
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos. De este modo utilizaremos las definiciones tanto de inductor como de capacitor, así como también la parte matemática, esto será complementado con la investigación realizada. Adema de realizar los análisis que nos piden y a la vez responder a las preguntas planteadas.
+
 ### 2. OBJETIVOS
 
 ### 3. MARCO TEÓRICO 

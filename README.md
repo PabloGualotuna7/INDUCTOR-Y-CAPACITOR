@@ -8,7 +8,7 @@
 
 ##### Qué es un inductor?
 
-El nombre indica que es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide. En principio, cualquier conductor podría usarse para construir una bobina. Se elabora enrollando alambre conductor en círculos, dando varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al hacer contacto consigo mismo al enrollarse, se emplea alambre esmaltado en la confección del inductor. Cada vuelta que el alambre efectúa se llama espira.
+Es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide. En principio, cualquier conductor podría usarse para construir una bobina. Se elabora enrollando alambre conductor en círculos, dando varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al hacer contacto consigo mismo al enrollarse, se emplea alambre esmaltado en la confección del inductor. Cada vuelta que el alambre efectúa se llama espira.
 
 En otras palabras: La bobina o inductor es un elemento que reacciona contra los cambios en la corriente a través de él, generando un voltaje que se opone al voltaje aplicado y es proporcional al cambio de la corriente.
 

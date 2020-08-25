@@ -12,6 +12,7 @@
 Un amplificador operacional, a menudo conocido opamp por sus siglas en inglés (operational amplifier) es un dispositivo amplificador electrónico de alta ganancia acoplado en corriente continua que tiene dos entradas y una salida. En esta configuración, la salida del dispositivo es, generalmente, de cientos de miles de veces mayor que la diferencia de potencial entre sus entradas.
 
 ![](https://github.com/PabloGualotuna7/AMPLIFICADOR-OPERACIONAL/blob/master/img/1.jpg)
+
 Figura 1.
 
 ##### Estructura
@@ -19,6 +20,7 @@ Figura 1.
 El símbolo de un amplificador es el mostrado en la siguiente figura:
 
 ![](https://github.com/PabloGualotuna7/AMPLIFICADOR-OPERACIONAL/blob/master/img/2.png)
+
 Figura 2.
 
 Los terminales son:
@@ -61,7 +63,11 @@ Incluso un amplificador operacional interviene en el procesamiento tanto análog
 
 ##### Comportamiento en corriente continua (DC)
 
-* Lazo abierto: Cuando se aplica una señal a la entrada, la ganancia es el cociente entre la tensión de salida Vs y la de entrada Ve que tiene el amplificador operacional cuando no existe ningún lazo de realimentación entre la salida y alguna de las dos entradas. Ver en la figura.
+* Lazo abierto: Cuando se aplica una señal a la entrada, la ganancia es el cociente entre la tensión de salida Vs y la de entrada Ve que tiene el amplificador operacional cuando no existe ningún lazo de realimentación entre la salida y alguna de las dos entradas. Ver en la figura 3.
+
+![](https://github.com/PabloGualotuna7/AMPLIFICADOR-OPERACIONAL/blob/master/img/2.png)
+
+Figura 3
 
 La ganancia del amplificador en lazo abierto está dada por la siguiente fórmula:
 
@@ -80,6 +86,10 @@ En la realidad, no es así ya que la salida depende de la tensión diferencial (
 Vd = V1 -V2;    y     Vc = 1/2 (V1 + V2).
 
 * Lazo cerrado o realimentado: Como decimos los amplificadores operacionales prácticos tienen ganancia de tensión muy alta (típicamente 10^5), sin embargo esta ganancia varía con la frecuencia. La forma de compensar esto es, controlar la ganancia de tensión que tiene el amplificador operacional, utilizando elementos externos para realimentar una parte de señal de la salida a la entrada, que hará que el circuito sea mucho más estable.
+
+![](https://github.com/PabloGualotuna7/AMPLIFICADOR-OPERACIONAL/blob/master/img/4.JPG)
+
+Figura 4
 
 Con la realimentación, la ganancia de lazo cerrado, depende de los elementos empleados en la realimentación y no de la ganancia básica de tensión del amplificador operacional, por lo que, para modifica la ganancia modificaremos los valores de R1 y R2. Como veremos a continuación, los circuitos con amplificadores operacionales, resistencias y condensadores, los podemos configurar para obtener diversas operaciones analógicas como sumas, restas, comparar, integrar, filtrar y por supuesto amplificar. La ganancia se obtiene por la siguiente fórmula: AV= – Vo / Vin. El sigo negativo indica que la señal en la salida será la opuesta a la entrada (se confirma que una señal positiva aplicada a la entrada produce una tensión negativa a la salida y viceversa).
 

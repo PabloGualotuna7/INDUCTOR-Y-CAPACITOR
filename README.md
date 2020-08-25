@@ -11,9 +11,15 @@
 
 Un amplificador operacional, a menudo conocido opamp por sus siglas en inglés (operational amplifier) es un dispositivo amplificador electrónico de alta ganancia acoplado en corriente continua que tiene dos entradas y una salida. En esta configuración, la salida del dispositivo es, generalmente, de cientos de miles de veces mayor que la diferencia de potencial entre sus entradas.
 
+![](https://github.com/PabloGualotuna7/AMPLIFICADOR-OPERACIONAL/blob/master/img/1.jpg)
+Figura 1.
+
 ##### Estructura
 
 El símbolo de un amplificador es el mostrado en la siguiente figura:
+
+![](https://github.com/PabloGualotuna7/AMPLIFICADOR-OPERACIONAL/blob/master/img/2.png)
+Figura 2.
 
 Los terminales son:
 

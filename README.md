@@ -6,6 +6,14 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 ### 2. OBJETIVOS
 
+* Investigar los conceptos de bobina y capacitor en circuitos DC y AC, para aplicar en el desarrollo del informe. 
+
+* Analizar las diferencias entre un inductor y capacitor, así como también la simbología que tiene cada uno y poder diferenciar en los circuitos.
+
+* Buscar un simulador online adecuado para desarollar el informe y responder a las preguntas planteadas con la ayuda del mismo.
+
+* 
+
 ### 3. MARCO TEÓRICO 
 
 ##### Qué es un inductor?

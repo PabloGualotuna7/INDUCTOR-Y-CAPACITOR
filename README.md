@@ -15,9 +15,8 @@ Es un componente eléctrico que produce inducción. Concretamente, induce un cam
 En otras palabras: La bobina o inductor es un elemento que reacciona contra los cambios en la corriente a través de él, generando un voltaje que se opone al voltaje aplicado y es proporcional al cambio de la corriente.
 
 ![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/2.JPG)
-![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/11.png)
 
-Figura 1
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/11.png)
 
 Figura 1
 

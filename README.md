@@ -61,6 +61,15 @@ En corriente continua, lo que más se aprovecha de los inductores es la capacida
 
 * Circuitos de modulación: Tradicionalmente se han usado inductores como elementos que juegan importante papel en la transmisión y recepción de señales moduladas, como en el caso de los sistemas de radio. Aquí se aprovechan los fenómenos asociados al comportamiento de los inductores en corriente alterna para construir circuitos que permitan la transmisión y recepción de señales de radio.
 
+##### Factores que afectan la inductancia de un inductor 
+
+La capacidad de producir líneas magnéticas se denomina inductancia. La unidad estándar de inductancia es Henry. La cantidad de flujo magnético desarrollado o la inductancia de diferentes tipos de inductores depende de cuatro factores básicos que se analizan a continuación. 
+
+* Número de vueltas en una bobina: Si el número de vueltas es mayor, se produce una mayor cantidad de campo magnético, lo que resulta en más inductancia. Menos vueltas resultan en menos inductancia. 
+* Material del núcleo: Si el material utilizado para el núcleo tiene alta permeabilidad, más será la inductancia de un inductor. Esto se debe a que los materiales de alta permeabilidad ofrecen el camino de baja reluctancia al flujo magnético. 
+* Área transversal de la bobina: Una mayor área de sección transversal da como resultado una mayor inductancia porque esto ofrece menos oposición al flujo magnético en términos de área. 
+* Longitud de la bobina: Cuanto más larga sea la bobina, menos será la inductancia. Esto se debe a que, para una cantidad dada del campo, la fuerza de oposición al flujo magnético es mayor. El inductor fijo no permite al usuario variar la inductancia una vez que está diseñado. Pero es posible variar la inductancia usando inductores variables, variando el número de vueltas en un momento dado o variando el material del núcleo dentro y fuera de la bobina.
+
 ### 4. DIAGRAMAS
 
 ### 5. LISTAS DE COMPONENTES

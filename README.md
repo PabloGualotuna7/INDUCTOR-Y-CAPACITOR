@@ -12,7 +12,7 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 * Desarrollar las preguntas planteadas en el informe, aplicando lo investigado y a la vez utilizando los simuladores online.
 
-* Aplicar y utilizar instrumentación de medida basada en la utilización de amplificadores operacionales.
+* Aplicar y utilizar instrumentación de medida basada en el tema de amplificadores operacionales.
 
 ### 3. MARCO TEÓRICO 
 

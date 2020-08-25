@@ -12,7 +12,7 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 * Buscar un simulador online adecuado para desarollar el informe y responder a las preguntas planteadas con la ayuda del mismo.
 
-* 
+* Determinar experimentalmente la condición necesaria para hallar lo pedido tanto en el concepto de inductor y capacitor.
 
 ### 3. MARCO TEÓRICO 
 

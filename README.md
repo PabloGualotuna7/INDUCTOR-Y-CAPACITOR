@@ -41,15 +41,7 @@ En muchos circuitos osciladores se incluye una  bobina o inductor. Por ejemplo c
 
 ##### Funcionamiento
 
-inductoresCuando circula una corriente por las espiras, se induce un campo magnético que atraviesa el cilindro helicoidal en su longitud, y también en el exterior del solenoide. Esto se conoce como ley de Faraday. La capacidad inductiva de una bobina se puede medir a través de un parámetro propio de la misma llamado autoinductancia, o sencillamente inductancia. Cuando una bobina interactúa magnéticamente con otras, se produce un fenómeno llamado inductancia mutua, a tener en cuenta en algunos circuitos.
-
-Se puede mejorar la inductancia de una bobina si las espiras están arrolladas alrededor de un núcleo de material ferromagnético.
-
-En corriente continua, lo que más se aprovecha de los inductores es la capacidad magnética, en tanto que en corriente alterna, y en regímenes de señales eléctricas variables, se aprovecha el comportamiento del inductor como variador de la señal eléctrica en el tiempo.
-
-##### Funcionamiento
-
-inductoresCuando circula una corriente por las espiras, se induce un campo magnético que atraviesa el cilindro helicoidal en su longitud, y también en el exterior del solenoide. Esto se conoce como ley de Faraday. La capacidad inductiva de una bobina se puede medir a través de un parámetro propio de la misma llamado autoinductancia, o sencillamente inductancia. Cuando una bobina interactúa magnéticamente con otras, se produce un fenómeno llamado inductancia mutua, a tener en cuenta en algunos circuitos.
+Cuando circula una corriente por las espiras, se induce un campo magnético que atraviesa el cilindro helicoidal en su longitud, y también en el exterior del solenoide. Esto se conoce como ley de Faraday. La capacidad inductiva de una bobina se puede medir a través de un parámetro propio de la misma llamado autoinductancia, o sencillamente inductancia. Cuando una bobina interactúa magnéticamente con otras, se produce un fenómeno llamado inductancia mutua, a tener en cuenta en algunos circuitos.
 
 Se puede mejorar la inductancia de una bobina si las espiras están arrolladas alrededor de un núcleo de material ferromagnético.
 

@@ -12,7 +12,9 @@ Es un componente eléctrico que produce inducción. Concretamente, induce un cam
 
 En otras palabras: La bobina o inductor es un elemento que reacciona contra los cambios en la corriente a través de él, generando un voltaje que se opone al voltaje aplicado y es proporcional al cambio de la corriente.
 
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/2.JPG)
 
+Figura 1
 
 #### Características técnicas generales del inductor.
 
@@ -65,7 +67,9 @@ El primer paso para la lectura de un Inductor es la comprensión de lo que signi
 
 También conocido como condensador es un dispositivo capaz de almacenar  energía a través de campos eléctricos (uno positivo y uno negativo). Este se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
 
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/3.JPG)
 
+Figura 2
 
 Los capacitores se utilizan principalmente como filtros de corriente continua, ya que evitan cambios bruscos y ruidos en las señales debido a su funcionamiento.
 
@@ -85,24 +89,36 @@ V es la tensión aplicada al capacitor [Volt].
 
 Este dispositivo en cuanto a construcción es demasiado sencillo en comparación con otros componentes, ya que solo consta de tres partes esenciales.
 
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/4.JPG)
 
+Figura 3
 
 Placas metálicas: Estas placas se encargan de almacenar las cargas eléctricas.
+
 Dialéctico o aislante: Sirve para evitar el contacto entre las dos placas.
+
 Carcasa de plástico: Cubre las partes internas del capacitor.
 
 #### ¿Cómo funciona un capacitor?
 
 En su estado natural cada una de las placas internas tiene el mismo numero de electrones. Cuando conectamos una fuente de voltaje una de las placas pierde electrones (siendo esta la terminal positiva), mientras que la otra los gana ( terminal negativa). Este movimiento de electrones se detiene cuando el capacitor alcanza el mismo voltaje que la fuente de alimentación.
 
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/5.JPG)
 
-
+Figura 4
 
 El material dialéctico se coloca entre las dos placas y sirve para evitar que estas hagan contacto entre sí, también sirve para que los electrones no pasen de una hacia la otra. Cuando se desconecta la fuente de alimentación los electrones ganados por una de las placas regresan a la otra placa para alcanzar su estado natural con el mismo numero de electrones en cada una.
 
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/6.JPG)
+
+Figura 5
+
+
 #### Tipos de capacitores.
 
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/7.jpg)
 
+Figura 6
 
 ### 4. DIAGRAMAS
 

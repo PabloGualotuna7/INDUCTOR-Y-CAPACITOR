@@ -55,9 +55,27 @@ Incluso un amplificador operacional interviene en el procesamiento tanto análog
 
 ##### Comportamiento en corriente continua (DC)
 
-* Lazo abierto: Si no existe realimentación la salida del A. O. será la resta de sus dos entradas multiplicada por un factor. Este factor suele ser del orden de 100.000 (que se considerará infinito en cálculos con el componente ideal). Por lo tanto si la diferencia entre las dos tensiones es de 1V la salida debería ser 100.000V. Debido a la limitación que supone no poder entregar más tensión de la que hay en la alimentación, el A. O. estará saturado si se da este caso. Esto será aprovechado para su uso de comparador analógico]], como se verá más adelante. Si la tensión más alta es la aplicada a la patilla + la salida será la que corresponde a la alimentación VS+, mientras que si la tensión más alta es la del pin - la salida será la alimentación VS-.
+* Lazo abierto: Cuando se aplica una señal a la entrada, la ganancia es el cociente entre la tensión de salida Vs y la de entrada Ve que tiene el amplificador operacional cuando no existe ningún lazo de realimentación entre la salida y alguna de las dos entradas. Ver en la figura.
 
-* Lazo cerrado o realimentado: Se conoce como lazo cerrado a la realimentación en un circuito. Aquí se supondrá realimentación negativa. Para conocer el funcionamiento de esta configuración se parte de las tensiones en las dos entradas exactamente iguales, se supone que la tensión en la pata + sube y, por tanto, la tensión en la salida también se eleva. Como existe la realimentación entre la salida y la pata -, la tensión en esta pata también se eleva, por tanto la diferencia entre las dos entradas se reduce, disminuyéndose también la salida. Este proceso pronto se estabiliza, y se tiene que la salida es la necesaria para mantener las dos entradas, idealmente, con el mismo valor. Siempre que hay realimentación negativa se aplican estas dos aproximaciones para analizar el circuito: · V+ = V- (lo que se conoce como principio del cortocircuito virtual). · I+ = I- = 0 Cuando se realimenta negativamente un amplificador operacional, al igual que con cualquier circuito amplificador, se mejoran algunas características del mismo como una mayor impedancia en la entrada y una menor impedancia en la salida. La mayor impedancia de entrada da lugar a que la corriente de entrada sea muy pequeña y se reducen así los efectos de las perturbaciones en la señal de entrada. La menor impedancia de salida permite que el amplificador se comporte como una fuente eléctrica de mejores características. Además, la señal de salida no depende de las variaciones en la ganancia del amplificador, que suele ser muy variable, sino que depende de la ganancia de la red de realimentación, que puede ser mucho más estable con un menor coste. Asimismo, la frecuencia de corte superior es mayor al realimentar, aumentando el ancho de banda. Asimismo, cuando se realiza realimentación positiva (conectando la salida a la entrada no inversora a través de un cuadripolo determinado) se buscan efectos muy distintos. El más aplicado es obtener un oscilador para el generar señales oscilantes.
+La ganancia del amplificador en lazo abierto está dada por la siguiente fórmula:
+
+AV = Vs / Ve
+Donde:
+AV = ganancia de tensión
+Vs = tensión de salida
+Ve = tensión de entrada
+
+En un amplificador operacional ideal, esta ganancia es infinita. Sin embargo, cuando el operacional es real, su ganancia está entre 20,000 y 200,000 (en el amplificador operacional 741C). Este tipo de configuración se utiliza en comparadores, donde lo que se desea es, saber cual de las dos entradas tiene mayor tensión, de ahí su nombre, amplificador diferencial. La señal de salida Vs del amplificador diferencial ideal debería ser:
+
+Vs = Av (V1 – V2).
+
+En la realidad, no es así ya que la salida depende de la tensión diferencial (Vd) y del nivel medio llamado señal en modo común (Vc), o sea:
+
+Vd = V1 -V2;    y     Vc = 1/2 (V1 + V2).
+
+* Lazo cerrado o realimentado: Como decimos los amplificadores operacionales prácticos tienen ganancia de tensión muy alta (típicamente 10^5), sin embargo esta ganancia varía con la frecuencia. La forma de compensar esto es, controlar la ganancia de tensión que tiene el amplificador operacional, utilizando elementos externos para realimentar una parte de señal de la salida a la entrada, que hará que el circuito sea mucho más estable.
+
+Con la realimentación, la ganancia de lazo cerrado, depende de los elementos empleados en la realimentación y no de la ganancia básica de tensión del amplificador operacional, por lo que, para modifica la ganancia modificaremos los valores de R1 y R2. Como veremos a continuación, los circuitos con amplificadores operacionales, resistencias y condensadores, los podemos configurar para obtener diversas operaciones analógicas como sumas, restas, comparar, integrar, filtrar y por supuesto amplificar. La ganancia se obtiene por la siguiente fórmula: AV= – Vo / Vin. El sigo negativo indica que la señal en la salida será la opuesta a la entrada (se confirma que una señal positiva aplicada a la entrada produce una tensión negativa a la salida y viceversa).
 
 ### 4. DIAGRAMAS
 

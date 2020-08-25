@@ -12,27 +12,6 @@ Es un componente eléctrico que produce inducción. Concretamente, induce un cam
 
 En otras palabras: La bobina o inductor es un elemento que reacciona contra los cambios en la corriente a través de él, generando un voltaje que se opone al voltaje aplicado y es proporcional al cambio de la corriente.
 
-Los inductores son elementos pasivos como las resistencias y capacitores pero, que tienen la característica de almacenamiento de energía en forma de campo magnético. La forma más simple de inductor es una bobina de alambre que tiene tendencia a mantener su campo magnético una vez establecido. Las características del inductor son resultado directo de la ley de inducción de Faraday, la cual establece:
-
-V(t) = dλ/dt.
-
-Donde lambda (λ) es el flujo magnético total a través de los devanados de la bobina debido a la corriente. El flujo magnético se mide en webers (Wb). En la Figura se muestran las líneas de campo magnético que rodean a un inductor. La dirección sur a norte de las líneas del campo magnético, que se muestra con puntas de flecha en la Figura, se encuentran usando la regla de la mano derecha para una bobina. La regla establece que, si se enrollan los dedos de la mano derecha en la dirección del flujo de corriente a través de la bobina, el pulgar apuntará en la dirección del norte magnético.
-
-Para una bobina ideal, el flujo es proporcional a la corriente:
-
-λ = LI
-
-Donde 𝐿 es la inductancia de la bobina, que se supone es constante. La unidad de medición de inductancia es el henry (𝐻=𝑊𝑏/𝐴). Al usar las anteriores dos ecuaciones, la relación voltaje-corriente de un inductor se puede expresar como:
-
-V(t) = L dI/dt
-Donde:
-
-V es la tensión en el inductor [Volt].
-
-L es la inductancia del inductor [Henry].
-
-dI/dt es la velocidad de cambio de la transformación de corriente [(Volt)(seg)/Amper].
-
 #### Características técnicas generales del inductor.
 
 * Permeabilidad magnética (m): Es una característica que tiene gran influencia sobre el núcleo de las bobinas respecto del valor de la inductancia de las mismas. Los materiales ferromagnéticos son muy sensibles a los campos magnéticos y producen unos valores altos de inductancia, sin embargo otros materiales presentan menos sensibilidad a los campos magnéticos. El factor que determina la mayor o menor sensibilidad a esos campos magnéticos se llama permeabilidad magnética.
@@ -68,13 +47,6 @@ En corriente continua, lo que más se aprovecha de los inductores es la capacida
 
 * Circuitos de modulación: Tradicionalmente se han usado inductores como elementos que juegan importante papel en la transmisión y recepción de señales moduladas, como en el caso de los sistemas de radio. Aquí se aprovechan los fenómenos asociados al comportamiento de los inductores en corriente alterna para construir circuitos que permitan la transmisión y recepción de señales de radio.
 
-##### Tipos de inductores.
-
-* Según el núcleo o soporte: Núcleo de aire, Núcleo de hierro, Núcleo de ferrita.
-* Según la frecuencia de la corriente aplicada: Alta frecuencia, Baja frecuencia.
-* Según el recubrimiento: Plástico, Resina, Metal.
-* Según la característica de su valor: Fijos, Ajustables.
-
 ##### ¿Cómo saber el valor de un inductor?
 
 Los valores importantes que debemos conocer son la inductancia eléctrica, y tolerancia. Estos valores se indican en el encapsulado dependiendo del tipo de éste.
@@ -90,6 +62,7 @@ El primer paso para la lectura de un Inductor es la comprensión de lo que signi
 #### Símbolo del inductor.
 
 Tal como las resistencias eléctricas y los capacitores, los inductores también pueden ser tipo fijo o variable, la simbología de éstos se presenta en la siguientes Figuras:
+
 
 
 ### 4. DIAGRAMAS

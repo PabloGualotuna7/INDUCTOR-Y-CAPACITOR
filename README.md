@@ -10,9 +10,11 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 * Analizar las diferencias entre un inductor y capacitor, así como también la simbología que tiene cada uno y poder diferenciar en los circuitos.
 
-* Buscar un simulador online adecuado para desarollar el informe y responder a las preguntas planteadas con la ayuda del mismo.
+* Buscar un simulador online adecuado para desarrollar el informe y responder a las preguntas planteadas con la ayuda del mismo.
 
 * Determinar experimentalmente la condición necesaria para hallar lo pedido tanto en el concepto de inductor y capacitor.
+
+* Realizar tablas para así poder comparar los resultados de las mediciones realizadas tanto con el osciloscopio, multímetro y las calculadas.
 
 ### 3. MARCO TEÓRICO 
 

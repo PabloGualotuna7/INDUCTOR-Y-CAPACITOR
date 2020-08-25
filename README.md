@@ -8,9 +8,7 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 * Investigar los conceptos de bobina y capacitor en circuitos DC y AC, para aplicar en el desarrollo del informe. 
 
-* Analizar las diferencias entre un inductor y capacitor, así como también la simbología que tiene cada uno y poder diferenciar en los circuitos.
-
-* Buscar un simulador online adecuado para desarrollar el informe y responder a las preguntas planteadas con la ayuda del mismo.
+* Analizar las diferencias entre un inductor y capacitor, así como también la simbología que tiene cada uno y poder diferenciar en los circuitos y buscar un simulador online adecuado para desarrollar el informe y responder a las preguntas planteadas con la ayuda del mismo.
 
 * Determinar experimentalmente la condición necesaria para hallar lo pedido tanto en el concepto de inductor y capacitor.
 

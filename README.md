@@ -14,12 +14,15 @@
 
 ### 7. PREGUNTAS
 
-##### 7.1 Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
+##### 7.1 Justifique los errores cometidos en las mediciones.
 
-##### 7.2 Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+##### 7.2 ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-##### 7.3 Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales. 
+##### 7.3 ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
+##### 7.4 ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+##### 7.4 ¿Qué son los valores eficaces de voltaje y corriente?
 
 ### 8. PORCENTAJE DE ERROR.
 

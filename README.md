@@ -133,6 +133,8 @@ Figura 5
 Figura 6
 
 ### 4. DIAGRAMAS
+Diagrama circuito con capacitores
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/DIAGRAMA%201.jpg)
 
 ### 5. LISTAS DE COMPONENTES
 

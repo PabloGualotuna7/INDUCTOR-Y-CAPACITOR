@@ -33,6 +33,13 @@ L es la inductancia del inductor [Henry].
 
 dI/dt es la velocidad de cambio de la transformación de corriente [(Volt)(seg)/Amper].
 
+#### Características técnicas generales del inductor.
+
+* Permeabilidad magnética (m): Es una característica que tiene gran influencia sobre el núcleo de las bobinas respecto del valor de la inductancia de las mismas. Los materiales ferromagnéticos son muy sensibles a los campos magnéticos y producen unos valores altos de inductancia, sin embargo otros materiales presentan menos sensibilidad a los campos magnéticos. El factor que determina la mayor o menor sensibilidad a esos campos magnéticos se llama permeabilidad magnética.
+Cuando este factor es grande el valor de la inductancia también lo es.
+
+* Factor de calidad (Q): Relaciona la inductancia con el valor óhmico del material de la bobina. La bobina será buena si la inductancia es mayor que el valor óhmico debido al material de la misma.
+
 ##### Aplicaciones de una bobina / inductor:
 
 En los sistemas de iluminación con lámparas fluorescentes existe un elemento adicional que acompaña al tubo y que comúnmente se llama balastro

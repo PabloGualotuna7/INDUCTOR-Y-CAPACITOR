@@ -63,20 +63,26 @@ En corriente continua, lo que más se aprovecha de los inductores es la capacida
 
 ##### Tipos de inductores.
 
-* Según el núcleo o soporte:
-Núcleo de aire.
-Núcleo de hierro.
-Núcleo de ferrita.
-* Según la frecuencia de la corriente aplicada:
-Alta frecuencia.
-Baja frecuencia.
-* Según el recubrimiento:
-Plástico.
-Resina.
-Metal.
-* Según la característica de su valor:
-Fijos.
-Ajustables.
+* Según el núcleo o soporte: Núcleo de aire, Núcleo de hierro, Núcleo de ferrita.
+* Según la frecuencia de la corriente aplicada: Alta frecuencia, Baja frecuencia.
+* Según el recubrimiento: Plástico, Resina, Metal.
+* Según la característica de su valor: Fijos, Ajustables.
+
+##### ¿Cómo saber el valor de un inductor?
+
+Los valores importantes que debemos conocer son la inductancia eléctrica, y tolerancia. Estos valores se indican en el encapsulado dependiendo del tipo de éste.
+
+El primer paso para la lectura de un Inductor es la comprensión de lo que significa cada banda.
+
+1) La primera banda que corresponde al extremo izquierdo es la que representa el dígito más significativo del inductor.
+2) La segunda banda representa el segundo dígito más significativo.
+3) La tercera banda representa el tercer dígito más significativo del inductor.
+4) La cuarta banda representa la potencia de 10 elevada al color correspondiente y multiplicado por la primera, segunda y tercer banda.
+5) La quinta banda representa la tolerancia del inductor.
+
+#### Símbolo del inductor.
+
+Tal como las resistencias eléctricas y los capacitores, los inductores también pueden ser tipo fijo o variable, la simbología de éstos se presenta en la siguientes Figuras:
 
 
 ### 4. DIAGRAMAS

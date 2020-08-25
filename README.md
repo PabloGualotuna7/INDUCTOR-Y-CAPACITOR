@@ -2,6 +2,7 @@
 
 ### 1. PLANTEAMIENTO DEL PROBLEMA
 
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos, en este caso es un poco difícil ya que la teoría aún no se ha visto. De este modo se realizará una investigación profunda paras poder analizar y emplear el tema de amplificador operacional y poder responder a las preguntas planteadas. Además de obtener resultados pedidos.
 
 ### 2. OBJETIVOS
 

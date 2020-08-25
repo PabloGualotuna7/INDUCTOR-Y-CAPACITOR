@@ -5,6 +5,14 @@
 
 ### 2. OBJETIVOS
 
+* Investigar en distintas fuentes sobre el amplificador operacional, para una vez entendido aplicar y realizar la práctica.
+
+* Verificar y analizar el principio de funcionamiento de un amplificador operacional asi como algunas aplicaciones básicas con el amplificador operacional.
+
+* Desarrollar las preguntas planteadas en el informe, aplicando lo investigado y a la vez utilizando los simuladores online.
+
+* Aplicar y utilizar instrumentación de medida basada en la utilización de amplificadores operacionales.
+
 ### 3. MARCO TEÓRICO 
 
 ##### ¿Qué es un Amplificador operacional?

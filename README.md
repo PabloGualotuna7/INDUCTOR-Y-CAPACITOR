@@ -12,6 +12,8 @@ Es un componente eléctrico que produce inducción. Concretamente, induce un cam
 
 En otras palabras: La bobina o inductor es un elemento que reacciona contra los cambios en la corriente a través de él, generando un voltaje que se opone al voltaje aplicado y es proporcional al cambio de la corriente.
 
+
+
 #### Características técnicas generales del inductor.
 
 * Permeabilidad magnética (m): Es una característica que tiene gran influencia sobre el núcleo de las bobinas respecto del valor de la inductancia de las mismas. Los materiales ferromagnéticos son muy sensibles a los campos magnéticos y producen unos valores altos de inductancia, sin embargo otros materiales presentan menos sensibilidad a los campos magnéticos. El factor que determina la mayor o menor sensibilidad a esos campos magnéticos se llama permeabilidad magnética.
@@ -59,9 +61,34 @@ El primer paso para la lectura de un Inductor es la comprensión de lo que signi
 4) La cuarta banda representa la potencia de 10 elevada al color correspondiente y multiplicado por la primera, segunda y tercer banda.
 5) La quinta banda representa la tolerancia del inductor.
 
-#### Símbolo del inductor.
+##### Qué es un capacitor?
 
-Tal como las resistencias eléctricas y los capacitores, los inductores también pueden ser tipo fijo o variable, la simbología de éstos se presenta en la siguientes Figuras:
+También conocido como condensador es un dispositivo capaz de almacenar  energía a través de campos eléctricos (uno positivo y uno negativo). Este se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
+
+
+
+Los capacitores se utilizan principalmente como filtros de corriente continua, ya que evitan cambios bruscos y ruidos en las señales debido a su funcionamiento.
+
+##### Partes de un capacitor 
+
+Este dispositivo en cuanto a construcción es demasiado sencillo en comparación con otros componentes, ya que solo consta de tres partes esenciales.
+
+
+
+Placas metálicas: Estas placas se encargan de almacenar las cargas eléctricas.
+Dialéctico o aislante: Sirve para evitar el contacto entre las dos placas.
+Carcasa de plástico: Cubre las partes internas del capacitor.
+
+#### ¿Cómo funciona un capacitor?
+
+En su estado natural cada una de las placas internas tiene el mismo numero de electrones. Cuando conectamos una fuente de voltaje una de las placas pierde electrones (siendo esta la terminal positiva), mientras que la otra los gana ( terminal negativa). Este movimiento de electrones se detiene cuando el capacitor alcanza el mismo voltaje que la fuente de alimentación.
+
+
+
+
+El material dialéctico se coloca entre las dos placas y sirve para evitar que estas hagan contacto entre sí, también sirve para que los electrones no pasen de una hacia la otra. Cuando se desconecta la fuente de alimentación los electrones ganados por una de las placas regresan a la otra placa para alcanzar su estado natural con el mismo numero de electrones en cada una.
+
+#### Tipos de capacitores.
 
 
 

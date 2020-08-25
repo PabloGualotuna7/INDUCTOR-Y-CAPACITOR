@@ -69,6 +69,18 @@ También conocido como condensador es un dispositivo capaz de almacenar  energí
 
 Los capacitores se utilizan principalmente como filtros de corriente continua, ya que evitan cambios bruscos y ruidos en las señales debido a su funcionamiento.
 
+Esto se puede expresar matemáticamente como:
+
+q = CV
+
+Donde:
+
+q es la carga almacenada [Coulomb].
+
+C es la capacitancia del capacitor [Farad].
+
+V es la tensión aplicada al capacitor [Volt].
+
 ##### Partes de un capacitor 
 
 Este dispositivo en cuanto a construcción es demasiado sencillo en comparación con otros componentes, ya que solo consta de tres partes esenciales.

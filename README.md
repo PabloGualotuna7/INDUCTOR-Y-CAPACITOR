@@ -137,6 +137,10 @@ Diagrama circuito con capacitores
 
 ![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/DIAGRAMA%201.jpg)
 
+Diagrama circuito con inductores 
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/DIAGRAMA%202.jpg)
+
 ### 5. LISTAS DE COMPONENTES
 
 ### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN

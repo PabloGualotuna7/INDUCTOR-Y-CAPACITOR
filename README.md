@@ -137,39 +137,130 @@ Diagrama circuito con capacitores
 
 ![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/DIAGRAMA%201.jpg)
 
+Figura 7
+
 Diagrama circuito con inductores 
 
 ![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/DIAGRAMA%202.jpg)
 
+Figura 8
+
 ### 5. LISTAS DE COMPONENTES
+
+| Cantidad | Materiales |
+| --- | --- |
+| 1 | Generador de señales |
+| 1 | Osciloscopio |
+| 1 | Multímetro |
+| 1 | Resistencia |
+| 2 | Bobinas | 
+| 2 | Capacitores |
 
 ### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-### 7. PREGUNTAS
+1. Abrimos el simulador proteus, seguidamente buscamos y seleccionamos todos los materiales a usar.
 
-##### 7.1 Justifique los errores cometidos en las mediciones.
+2. Armamos los circuitos pedidos siguiendo los diagramas establecidos.
 
-##### 7.2 ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+3. Configuramos el generador de señales para el dato del voltaje pico y de los distintos valores de frecuencias.
 
-##### 7.3 ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+4. Configuramos los valores de la resistencia, de los capacitores y de las bobinas.
 
-##### 7.4 ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+5. Conectamos el osciloscopio, siempre con una de sus terminales a tierra, para que produzca señal.
 
-##### 7.5 ¿Qué son los valores eficaces de voltaje y corriente?
+6. Variamos los valores de frecuencias y medimos tanto voltaje y corriente con el multimetro, como el voltaje pico con el osciloscopio.
 
-### 8. PORCENTAJE DE ERROR.
+7. Anotamos cada valor arrojado por el simulador.
 
-### 9. CONCLUSIONES 
+8. Guardamos y Salimos.
 
-### 10. RECOMENDACIONES 
+### 7. TABLAS DE MEDICIONES Y CÁLCULOS
 
-### 11. CRONOGRAMA
+Valores de voltaje eficaz y pico en el circuito 1
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/tabla%20capacitor.png)
+
+Tabla 1
+
+Valores de corriente en el circuito 1
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Corriente%20capacitor.png)
+
+Tabla 2
+
+Valores de corriente en la resistencia del circuito 1
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Resistencia%20circuito%201.png)
+
+Tabla 3
+
+Valores de voltaje eficaz y pico en el circuito 2
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/tabla%20bobina.png)
+
+Tabla 4
+
+Valores de corriente en el circuito 1
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Corriente%20bobina.png)
+
+Tabla 5
+
+Valores de corriente en la resistencia del circuito 2
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Resistencia%20circuito%202.png)
+
+Tabla 6
+
+Valores de reactancia del circuito 1 (capacitancias)
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/circuito%20capacitor.png)
+
+Tabla 7
+
+Valores de reactancia del circuito 2 (inductancias)
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/circuito%20inductor.png)
+
+Tabla 8
+
+### 8. PREGUNTAS
+
+##### 8.1 Justifique los errores cometidos en las mediciones.
+
+##### 8.2 ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+##### 8.3 ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+##### 8.4 ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+##### 8.5 ¿Qué son los valores eficaces de voltaje y corriente?
+
+### 9. PORCENTAJE DE ERROR.
+
+Porcentaje de error en las mediciones y calculos del circuito 1
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Porcentaje%20de%20error%201.png)
+
+Tabla 9
+
+Porcentaje de error en las mediciones y calculos del circuito 2
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Porcentaje%20de%20error%202.png)
+
+Tabla 10
+
+### 10. CONCLUSIONES 
+
+### 11. RECOMENDACIONES 
+
+### 12. CRONOGRAMA
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Cronograma%201.png)
 
-
-### 12. BIBLIOGRAFÍA 
+### 13. BIBLIOGRAFÍA 
 
 Alexander, C, & Sadiku, M. (2006). Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw Hill.
 

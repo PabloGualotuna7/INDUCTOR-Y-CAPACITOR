@@ -249,7 +249,7 @@ Se concluye que al momento que la frecuencia aumenta, la reactancia sigue los mi
 
 ##### 8.1 Justifique los errores cometidos en las mediciones.
 
-Los errores que se obtuvieron en la práctica tienen varios factores por los que se dan, uno de ellos es el factor numerico, como puede ser los decimales, que dependiendo del simulador varian respecto a los calculos. Otro error es por los elementos utilizados en el circuito, como son los capacitores y los inductores, ya que desde la programación vienen diseñados de distinta forma, es decir se ajustan a los valores exactos como especifica la figura, mientras por ejemplo una calculadora comun no tiene tanta precisión al moneto de operar con respecto a las configuraciones de los capacitores e inductores en el simulador.
+Los errores que se obtuvieron en la práctica tienen varios factores por los que se dan, uno de ellos es el factor numerico, como puede ser los decimales, que dependiendo del simulador varian respecto a los calculos. Otro error es por los elementos utilizados en el circuito, como son los capacitores y los inductores, ya que desde la programación vienen diseñados de distinta forma, es decir se ajustan a los valores exactos como especifica la figura, mientras por ejemplo una calculadora comun no tiene tanta precisión al momento de operar con respecto a las configuraciones de los capacitores e inductores en el simulador.
 
 ##### 8.2 ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 

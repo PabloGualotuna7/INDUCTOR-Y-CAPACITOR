@@ -224,17 +224,42 @@ Valores de reactancia del circuito 2 (inductancias)
 
 Tabla 8
 
+
+Análisis Tabla 7:
+
+Se deduce que mientras la frecuencia va en aumento, la reactancia tiene a disminuir, esto debido a que la corriente de igual forma decrece.
+
+Análisis Tabla 8:
+
+Se concluye que al momento que la frecuencia aumenta, la reactancia sigue los mismos pasos y tiende a crecer, sucediendo lo contrario con la corriente que decrece.
+
 ### 8. PREGUNTAS
 
 ##### 8.1 Justifique los errores cometidos en las mediciones.
 
+Los errores que se obtuvieron en la práctica tienen varios factores por los que se dan, uno de ellos es el factor numerico, como puede ser los decimales, que dependiendo del simulador varian respecto a los calculos. Otro error es por los elementos utilizados en el circuito, como son los capacitores y los inductores, ya que que progrmación vienen diseñados de distinta forma, es decir se ajustan a los valores exactos como especifica la figura, mientras por ejemplo una calculadora comun no tiene tanta precisión al moneto de operar con respecto a las configuraciones de los capacitores e inductores en el simulador.
+
 ##### 8.2 ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+El capacitor se comporta como un circuito abierto para corriente continua y la bobina como un cortocircuito. En un circuito complementado en corriente continua se puede entender un condensador como un interruptor abierto es decir no deja pasar corriente (por lo que no hay presencia de intensidad) sin embargo esta la presencia de voltaje debido a que en el condensador posee una reactancia. Una bobina en corriente continua actúa diferente que un condensador, es decir deja pasar corriente (ya que las bobinas son realmente cables enrollados que solo conducen), sin embargo, no posee voltaje debido a que las bobinas en cc actúan como un corto circuito (se unen los polos positivo y negativo sin tener una carga).
 
 ##### 8.3 ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
+Bobinas AC:
+
+Cuando las bobinas son sometidas a corriente con frecuencia (A.C.), cumplen su función de inductancia, es decir además de poseer corriente esta también tiene la presencia de voltaje, debido al efecto de frecuencia. Las bobinas se pueden utilizar para “Adelantar voltaje y retrasar corriente”, dependiendo de cómo se utiliza para mejorar el factor de potencia.
+
+Condensadores en AC:
+
+En este caso, sucede todo lo contrario: el condensador deja pasar corriente, y tiene la presencia del voltaje, todo debido al efecto que tiene la corriente alterna en el elemento. Los condensadores se utilizan para “Adelantar corriente y atrasar voltaje”, dependiendo para mejorar el factor de potencia.
+
 ##### 8.4 ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+Al colocar dos capacitores o dos bobinas de diferente denominación en el circuito, se facilita los cálculos al momento de encontrar el valor de Vo porque podemos reducir el circuito a su mínima expresión usando el concepto de fasores, en los cuales a las impedancias y a las inductancias las convertimos al dominio fasorial y se representaría como una caja en el circuito a la cual podemos reducirle por el concepto de serie y paralelo.
+
 ##### 8.5 ¿Qué son los valores eficaces de voltaje y corriente?
+
+Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicarla sobre una misma resistencia. En otras palabras, el valor RMS es el valor del voltaje o corriente en CA que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente directa.
 
 ### 9. PORCENTAJE DE ERROR.
 
@@ -252,7 +277,23 @@ Tabla 10
 
 ### 10. CONCLUSIONES 
 
+* La presencia de condensadores y bobinas en un circuito de corriente alterna desfasa la intensidad de corriente respecto a la fem, además de suponer una variación de la resistencia efectiva del circuito, dependiente de la frecuencia de la corriente.
+
+* Los condensadores no son más que dispositivos que permiten la carga y descarga de energía y por lo tanto el almacenamiento de estas en el tiempo que sea necesario. Por tanto, son dispositivos que evitan el disparo repentino del flujo de energía almacenando una cantidad de esta dentro de ellos.
+
+* Los condensadores conectados en serie se comportan como resistores en paralelo; y cuando se conectan en paralelo se comportan como resistores en serie. Por lo tanto, la capacidad de los capacitores es inversamente proporcional a la tensión aplicada.
+
+* Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción de ninguna fem. En corriente AC ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva
+
 ### 11. RECOMENDACIONES 
+
+* Se debe reconocer la función de cada capacitor y de cada inductor y relacionar con las ondas observadas en el osciloscopio.
+
+* Se debe analizar las ondas observadas en el osciloscopio ya que cada una de ellas presenta una frecuencia diferente por eso tener conocimiento de la funcionalidad de los instrumentos a utilizar.
+
+* Para obtener mejores resultados en el osciloscopio es más recomendado configurarlo, para poder tener una vision mas amploa de la onda que se observa.
+
+* Se recomienda saber que en un circuito con corriente alterna, un condensador ideal ofrece una resistencia al paso de la electricidad que recibe el nombre de reactancia capacitiva, cuyo valor viene dado por la inversa del producto de la pulsación por la capacidad.
 
 ### 12. CRONOGRAMA
 

@@ -145,6 +145,18 @@ Diagrama circuito con inductores
 
 Figura 8
 
+Circuito con capacitores implementado en el simulador proteus
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Captura%20circuito%201.png)
+
+Figura 9
+
+Circuito con inductores implementado en el simulador proteus
+
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Captura%20circuito%202.png)
+
+Figura 10
+
 ### 5. LISTAS DE COMPONENTES
 
 | Cantidad | Materiales |

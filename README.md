@@ -214,13 +214,13 @@ Tabla 6
 
 Valores de reactancia del circuito 1 (capacitancias)
 
-![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/circuito%20capacitor.png)
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Circuito%201.png)
 
 Tabla 7
 
 Valores de reactancia del circuito 2 (inductancias)
 
-![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/circuito%20inductor.png)
+![](https://github.com/PabloGualotuna7/INDUCTOR-Y-CAPACITOR/blob/master/img/Circuito%202.png)
 
 Tabla 8
 

@@ -167,7 +167,6 @@ Diagrama circuito con inductores
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
-![](https://github.com/Edgar1Gallegos/CARACTERISTICAS-DE-LA-ONDA-SENOIDAL/blob/master/img/Cronograma.png)
 
 
 ### 12. BIBLIOGRAFÍA 
